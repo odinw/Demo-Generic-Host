@@ -1,6 +1,6 @@
 # Demo-Generic-Host
 
-Demo console app using:
+Demo console app:
 - appsetting
 - DI
 - BackgroundService
